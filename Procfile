@@ -1,0 +1,1 @@
+web: learn-go-graphql
